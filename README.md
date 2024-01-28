@@ -16,6 +16,10 @@
 <br>
 
 
+<hr>
+
+In my project, I used Dex queries to get and organize data. With Power BI, I created new columns and turned the data into insightful visuals. The main focus was on making a user-friendly dashboard that shows important supply chain details for AtliQ Mart. This dashboard helps in making smart decisions to improve the FMCG supply chain efficiently.
+
 
  <h1 align="center" >Snapshots of Dashboard.</h1> 
 
