@@ -76,3 +76,9 @@ This table contains information about OnTime, InFull and OnTime Infull informati
 ## Model View:
 ![Screenshot 2024-01-28 194704](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/3e138654-a850-4af6-9a4c-d08f3ccf5973)
 
+<br>
+<br>
+<br>
+
+![Screenshot 2024-01-29 020641](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/0cc067ab-438a-44f4-8467-b71cce96e14c)
+
