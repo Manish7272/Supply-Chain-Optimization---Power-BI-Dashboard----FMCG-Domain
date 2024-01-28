@@ -1,4 +1,7 @@
- <h1 align="center" >Generate Insights to Solve a Supply Chain Issue in <br>  FMCG Sector</h1> 
+ <h1 align="center" > AtliQ Mart </h1> 
+ <h2 align="center" > Generate Insights to Solve a Supply Chain Issue in <br>  FMCG Sector</h2> 
+
+![a2](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/3f3291ff-175b-4f2b-8ac3-c67268961453)
 
  <br>
  
@@ -11,6 +14,8 @@
 
 <br>
 <br>
+
+
 
  <h1 align="center" >Snapshots of Dashboard.</h1> 
 
