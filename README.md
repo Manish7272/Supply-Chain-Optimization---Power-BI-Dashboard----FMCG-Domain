@@ -26,23 +26,18 @@
 
 <br>
 <br>
-<br>
-<br>
-
 
 ## Insights and Findings
 
-### Page 1
+
 - **Performance Gaps:** We are falling short of targets in IF %, OT %, and OTIF %.
 - **City-wise Performance:** Vadodara has the lowest customer service performance, followed by Ahmedabad and Surat.
 - **Client Rankings:** "Propel Mart" has the best service, while "Cool blue Mart" and "Acclaimed Stores" rank the lowest.
 - **Product Preferences:** "AM Butter 500" has high order lines, indicating strong customer preference.
 
-### Page 2
 - **Product-Specific Metrics:** "AM Biscuits 750" has the highest LIFR, suggesting reliable full quantity deliveries.
 - **Overall Product Performance:** VOFR is consistent across all products.
 
-### Page 3
 - **Category-wise Issues:** Dairy products show both high undelivered quantities and low performance.
 - **Monthly Variations:** March had the highest delivered quantity, while August had the lowest.
 
@@ -52,15 +47,8 @@
 <hr>
 
  <h1 align="center" > AtliQ Mart </h1> 
- <h2 align="center" > Key Points To Re-Solve a Supply Chain Issue in <br>  FMCG Sector</h2> 
+ <h2 align="center" > Proposed Solutions To resolve Supply Chain Issue in <br>  FMCG Sector</h2> 
 
-
-## Overview
-This project aims to address supply chain issues in the FMCG sector for AtliQ Mart. The insights gathered from the data analysis highlight key areas that need improvement.
-
-
-
-## Proposed Solutions
 
 1. **Improve On-Time Deliveries:**
    - Identify and address bottlenecks in the supply chain process.
