@@ -73,4 +73,6 @@ This table contains information about OnTime, InFull and OnTime Infull informati
 5. in_full: '1' denotes the order is delviered in full quantity. '0' denotes the order is not delivered in full quantity.
 6: otif:    '1' denotes the order is delviered both on time and in full quantity. '0' denotes the order is either not delivered on time or not in full quantity.
 
+## Model View:
+![Screenshot 2024-01-28 194704](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/3e138654-a850-4af6-9a4c-d08f3ccf5973)
 
