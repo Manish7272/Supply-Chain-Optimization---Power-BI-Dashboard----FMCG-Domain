@@ -5,7 +5,7 @@
 
  <br>
  
-# Problem Statement.
+# 🔶Problem Statement.
 - AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
 
 - AtliQ Mart is currently facing a problem where a few key customers did not extend the annual contract due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers on a daily basis so that they can respond swiftly to these issues.
@@ -21,7 +21,7 @@
 In my project, I used Dex queries to get and organize data. With Power BI, I created new columns and turned the data into insightful visuals. The main focus was on making a user-friendly dashboard that shows important supply chain details for AtliQ Mart. This dashboard helps in making smart decisions to improve the FMCG supply chain efficiently.
 
 
- <h1 align="center" >Snapshots of Dashboard.</h1> 
+ <h1 align="center" >🔶Snapshots of Dashboard🔶</h1> 
 
 ![Screenshot 2024-01-29 013245](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/90c34a58-95d4-4551-8e5f-f74b444dc535)
 ![Screenshot 2024-01-29 013549](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/fc4574a0-772b-44d9-beb1-4c59c167ead0)
@@ -31,7 +31,7 @@ In my project, I used Dex queries to get and organize data. With Power BI, I cre
 <br>
 <br>
 
-## Insights and Findings
+## 🔶Insights and Findings
 
 
 - **Performance Gaps:** We are falling short of targets in IF %, OT %, and OTIF %.
@@ -50,7 +50,7 @@ In my project, I used Dex queries to get and organize data. With Power BI, I cre
 
 <hr>
 
- <h1 align="center" > AtliQ Mart </h1> 
+ <h1 align="center" >🔷AtliQ Mart🔷 </h1> 
  <h2 align="center" > Proposed Solutions To resolve Supply Chain Issue in <br>  FMCG Sector</h2> 
 
 
@@ -86,12 +86,12 @@ In my project, I used Dex queries to get and organize data. With Power BI, I cre
    - Investigate reasons for significant differences in delivered quantities between March and August.
    - Develop strategies to handle seasonal variations effectively.
 
-## Conclusion
+<br>
+
+## 🔷Conclusion
 By implementing these solutions, AtliQ Mart can enhance its supply chain efficiency and improve customer satisfaction in the FMCG sector.
 
  
-<br>
-<br>
 <br>
 <br>
 
