@@ -11,7 +11,7 @@
 <br>
 
 
-## Column Description for  "dim_customers":
+## 🔶 Column Description for  "dim_customers":
 This table contains all the information about customers
 
 1. customer_id: Unique ID is given to each customer
@@ -20,18 +20,32 @@ This table contains all the information about customers
 
 
 <br>
+<br>
 
 
-## Column Description for  "dim_products":
-This table contains all the information about the products
 
+## 🔶 Column Description for  "dim_products":
+<img align="center" src = "https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/4da465b4-4678-46dc-9532-92baa19b1879">
+
+This table contains all the information about the ***products***
 1. product_name: It is the name of the product
 2. product_id: Unique ID is given to each of the products
 3. category: It is the class to which the product belongs
 
+
 <br>
 
-## Column Description for  "dim_date":
+We have 3 FMCG Products in this Dataset:
+- 1.Dairy = AM Milk [100, 250, 500] ,  AM Butter [100, 250, 500], AM Ghee [100, 150, 250], AM Curd [50, 100, 250]
+
+- 2.Food = AM Biscuits [250, 500, 750]
+
+- 3.Beverages = AM Tea [100, 250, 500]
+
+<br>
+<br>
+
+## 🔶 Column Description for  "dim_date":
 This table contains the dates at daily, monthly level and week numbers of the year
 
 1. date: date at the daily level
@@ -40,7 +54,7 @@ This table contains the dates at daily, monthly level and week numbers of the ye
 
 <br>
 
-## Column Description for  "dim_targets_orders":
+## 🔶 Column Description for  "dim_targets_orders":
 This table contains all target data at the customer level
 
 1. customer_id: Unique ID that is given to each of the customers
@@ -50,7 +64,7 @@ This table contains all target data at the customer level
 
 <br>
 
-## Column Description for  "fact_order_lines":
+## 🔶 Column Description for  "fact_order_lines":
 This table contains all information about orders and each item inside the orders.
 
 1. order_id: Unique ID for each order the customer placed
@@ -65,7 +79,7 @@ This table contains all information about orders and each item inside the orders
 
 <br>
 
-## Column Description for  "fact_orders_aggregate":
+## 🔶 Column Description for  "fact_orders_aggregate":
 This table contains information about OnTime, InFull and OnTime Infull information aggregated at the order level per customer
 
 1. order_id: Unique ID for each order the customer placed
