@@ -13,6 +13,7 @@
 - The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘on-time delivery (OT) %’, ‘In-full delivery (IF) %’ and OnTime in full (OTIF) % of the customer orders on a daily basis against the target service level set for each customer.
 
 <br>
+
 <br>
 
 
@@ -25,7 +26,7 @@ In my project, I used Dex queries to get and organize data. With Power BI, I cre
 
 ![Screenshot 2024-01-29 013245](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/90c34a58-95d4-4551-8e5f-f74b444dc535)
 ![Screenshot 2024-01-29 013549](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/fc4574a0-772b-44d9-beb1-4c59c167ead0)
-![Screenshot 2024-01-29 013618](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/5b2666cc-9431-4bbc-9631-543b17dab0d9)
+![Screenshot 2024-02-04 234431](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/f04ef51b-d5cd-447a-aabd-e16fa4dcb70c)
 ![Screenshot 2024-01-29 013642](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/b297e8b3-b7ca-4be5-a256-433c261b0821)
 
 <br>
