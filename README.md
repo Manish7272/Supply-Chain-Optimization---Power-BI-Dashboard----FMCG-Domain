@@ -109,4 +109,4 @@ By implementing these solutions, AtliQ Mart can enhance its supply chain efficie
         LIFR - Line Fill Rate,  
         VOFR - Volume Fill Rate.
 
-***Thank you for exploring this repository! Your contributions and feedback are highly appreciated.Cheers to success! 🚀🥤***
+***Thank you for exploring this repository! Your contributions and feedback are highly appreciated.🚀🥤***
