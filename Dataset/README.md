@@ -1,3 +1,5 @@
+<h1 align="center"> Information About Dataset </h1>
+
 # This file contains all the Table information regarding the columns described in the CSV files.
 1. dim_customers.csv
 2. dim_products.csv
