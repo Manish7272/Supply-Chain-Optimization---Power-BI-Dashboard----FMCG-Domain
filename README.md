@@ -61,7 +61,7 @@ In my project, I used Dex queries to get and organize data. With Power BI, I cre
 - **Overall Product Performance:** VOFR is consistent across all products.
 
 - **Category-wise Issues:** Dairy products show both high undelivered quantities and low performance.
-- **Monthly Variations:** March had the highest delivered quantity, while August had the lowest.
+- **Monthly Variations:** May had the highest delivered quantity, while August had the lowest.
 
 <br>
 <br>
@@ -101,7 +101,7 @@ In my project, I used Dex queries to get and organize data. With Power BI, I cre
    - Implement corrective measures to improve delivery performance of dairy products.
 
 8. **Seasonal Variations:**
-   - Investigate reasons for significant differences in delivered quantities between March and August.
+   - Investigate reasons for significant differences in delivered quantities between May and August.
    - Develop strategies to handle seasonal variations effectively.
 
 <br>
@@ -120,3 +120,4 @@ By implementing these solutions, AtliQ Mart can enhance its supply chain efficie
         LIFR - Line Fill Rate,  
         VOFR - Volume Fill Rate.
 
+***Thank you for exploring this repository! Your contributions and feedback are highly appreciated.Cheers to success! 🚀🥤***
