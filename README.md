@@ -29,9 +29,9 @@ In my project, I used Dex queries to get and organize data. With Power BI, I cre
 
 ![Screenshot 2024-01-29 013245](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/90c34a58-95d4-4551-8e5f-f74b444dc535)
 
-![Screenshot 2024-01-29 013549](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/fc4574a0-772b-44d9-beb1-4c59c167ead0)
+![Screenshot 2024-02-06 220755](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/19dfc0b0-173d-4a68-8285-265c9d39d69b)
 
-![Screenshot 2024-02-04 234431](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/f04ef51b-d5cd-447a-aabd-e16fa4dcb70c)
+![Screenshot 2024-02-04 234431](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/a7b779b9-b054-4fda-9316-7e1a8cffeece)
 
 ![Screenshot 2024-02-04 234503](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/ba59174a-6f7f-4d46-8070-1448d6d7a63f)
 
