@@ -7,12 +7,18 @@
  
 # 🔶Problem Statement.
 
-- AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
+- AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities ***Surat, Ahmedabad and Vadodra***. They want to expand to other metro/tier1 cities in the next Few years.
+<br>
 
-- AtliQ Mart is currently facing a problem where a few key ***customers did not extend the annual contract*** due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service.
-  <br> Management wants to fix this issue before expanding to other cities and requested their ***supply chain analytics team*** to track the ’On time’ and ‘In Full’ delivery service level for all the customers on a daily basis so that they can respond swiftly to these issues.
 
-- The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘on-time delivery (OT) %’, ‘In-full delivery (IF) %’ and OnTime in full (OTIF) % of the customer orders on a daily basis against the target service level set for each customer.
+- AtliQ Mart is currently facing a problem where a few ***" key customers did not extend the annual contract*** due to service issues".
+	- It is speculated that some of the essential products were either "not delivered on time" or "not delivered in Full Quantity" over a continued period, which could have resulted in bad customer service.
+
+	- Management wants to fix this issue before expanding to other cities and requested their ***supply chain analytics team*** to track the ‘On time’ and ‘In Full’ delivery service level for all the customers on a daily basis so that they can respond swiftly to these issues.<br>
+  
+<br>
+
+- The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘on-time delivery (OT) %’, ‘In-full quantity delivery (IF) %’ and OnTime in full quantity (OTIF) % of the customer orders on a daily basis against the target service level set for each customer.
 
 
 <br>
@@ -22,13 +28,14 @@
 
 <hr>
 
-In my project, I used Dex queries to get and organize data. With Power BI, I created new columns and turned the data into insightful visuals. The main focus was on making a user-friendly dashboard that shows important supply chain details for AtliQ Mart. This dashboard helps in making smart decisions to improve the FMCG supply chain efficiently.
+In my project, I used Dex queries to get and organize data. With ***Power BI***, I created new columns and turned the data into insightful visuals. 
+- The main focus was on making a "user-friendly dashboard" that shows important supply chain details for AtliQ Mart. 
+- This dashboard helps in making smart decisions to improve the FMCG supply chain efficiently.
 
 
  <h1 align="center" >🔶Snapshots of Dashboard🔶</h1> 
 
-![Screenshot 2024-01-29 013245](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/90c34a58-95d4-4551-8e5f-f74b444dc535)
-
+0
 ![Screenshot 2024-02-06 220755](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/19dfc0b0-173d-4a68-8285-265c9d39d69b)
 
 ![Screenshot 2024-02-04 234431](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/a7b779b9-b054-4fda-9316-7e1a8cffeece)
