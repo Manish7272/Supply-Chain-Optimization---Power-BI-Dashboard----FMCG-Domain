@@ -101,3 +101,6 @@ This table contains information about  "OnTime",  "InFull"  and "OnTime Infull" 
 
 ![Screenshot 2024-01-29 020641](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/0cc067ab-438a-44f4-8467-b71cce96e14c)
 
+<br>
+<br>
+This was a Challenge put up by a famous YouTuber Codebasics and he provided all the datasets. This time no mock up was provided. Instead we got a conversation between the stakeholders of the company with their Data Analyst. From that conversation we had to figure out the requirements needed to solve the supply chain problem. We had to create a dashboard which showed the overall insights to the stakeholders and also give us enough insights to help solve the supply chain problem. #codebasicsresumeprojectchallenge
