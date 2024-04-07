@@ -80,14 +80,17 @@ This table contains all information about orders and each item inside the orders
 <br>
 
 ## 🔶 Column Description for  "fact_orders_aggregate":
-This table contains information about OnTime, InFull and OnTime Infull information aggregated at the order level per customer
+This table contains information about  "OnTime",  "InFull"  and "OnTime Infull"  information aggregated at the order level per customer
 
 1. order_id: Unique ID for each order the customer placed
 2. customer_id: Unique ID that is given to each of the customers
 3. order_placement_date: It is the date when the customer placed the order
 4. on_time: '1' denotes the order is delviered on time. '0' denotes the order is not delivered on time.
 5. in_full: '1' denotes the order is delviered in full quantity. '0' denotes the order is not delivered in full quantity.
-6: otif:    '1' denotes the order is delviered both on time and in full quantity. '0' denotes the order is either not delivered on time or not in full quantity.
+6. otif:    '1' denotes the order is delviered both on time and in full quantity. '0' denotes the order is either not delivered on time or not in full quantity.
+
+<br>
+<br>
 
 ## Model View:
 ![Screenshot 2024-01-28 194704](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/3e138654-a850-4af6-9a4c-d08f3ccf5973)
