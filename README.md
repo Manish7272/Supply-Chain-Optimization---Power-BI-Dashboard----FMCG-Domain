@@ -35,12 +35,20 @@ In my project, I used Dex queries to get and organize data. With ***Power BI***,
 
  <h1 align="center" >🔶Snapshots of Dashboard🔶</h1> 
 
-0
-![Screenshot 2024-02-06 220755](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/19dfc0b0-173d-4a68-8285-265c9d39d69b)
 
-![Screenshot 2024-02-04 234431](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/a7b779b9-b054-4fda-9316-7e1a8cffeece)
+![0](https://github.com/Manish7272/Supply-Chain-Optimization-Project/assets/71213166/0d64f512-93ed-4b5e-afd3-f1f6ea6b6082)
 
-![Screenshot 2024-02-04 234503](https://github.com/Manish7272/Supply-Chain-Optimization-Project-Manager/assets/71213166/ba59174a-6f7f-4d46-8070-1448d6d7a63f)
+![2](https://github.com/Manish7272/Supply-Chain-Optimization-Project/assets/71213166/a0586af6-fe69-4137-983f-cb4ab0ee33e1)
+
+![3](https://github.com/Manish7272/Supply-Chain-Optimization-Project/assets/71213166/b9a6ff0a-c3cd-4cf0-8d84-11f5c2cbdd3b)
+
+![4](https://github.com/Manish7272/Supply-Chain-Optimization-Project/assets/71213166/0bfaa236-4fbc-47b7-acea-3a5e5d204ecd)
+
+![5](https://github.com/Manish7272/Supply-Chain-Optimization-Project/assets/71213166/1af1bce6-3b97-4c60-b94a-349362c7b328)
+
+![6](https://github.com/Manish7272/Supply-Chain-Optimization-Project/assets/71213166/2d0f857e-007c-4aec-9597-65ce7bf8be4d)
+
+
 
 <br>
 <br>
