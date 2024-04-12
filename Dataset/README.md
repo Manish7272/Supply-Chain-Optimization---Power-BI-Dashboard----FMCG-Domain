@@ -104,3 +104,9 @@ This table contains information about  "OnTime",  "InFull"  and "OnTime Infull" 
 <br>
 <br>
 This was a Challenge put up by a famous YouTuber Codebasics and he provided all the datasets. This time no mock up was provided. Instead we got a conversation between the stakeholders of the company with their Data Analyst. From that conversation we had to figure out the requirements needed to solve the supply chain problem. We had to create a dashboard which showed the overall insights to the stakeholders and also give us enough insights to help solve the supply chain problem. #codebasicsresumeprojectchallenge
+
+<br>
+<br>
+
+# 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭:
+A few key customers haven't renewed the annual contract due to the service issues. This might have resulted in the bad service experience. Hence, the managenent wants to track the "On-Time" & In-Full" delivery service levels for all the customers on daily basis to fix them and later expand the business to new cities.
