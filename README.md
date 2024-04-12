@@ -21,7 +21,11 @@
 - The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘on-time delivery (OT) %’, ‘In-full quantity delivery (IF) %’ and OnTime in full quantity (OTIF) % of the customer orders on a daily basis against the target service level set for each customer.
 
 
+
+<hr>
 <br>
+
+A few key customers haven't renewed the annual contract due to the service issues. This might have resulted in the bad service experience. Hence, the managenent wants to track the "On-Time" & In-Full" delivery service levels for all the customers on daily basis to fix them and later expand the business to new cities.
 
 <br>
 
@@ -31,7 +35,7 @@
 In my project, I used Dex queries to get and organize data. With ***Power BI***, I created new columns and turned the data into insightful visuals. 
 - The main focus was on making a "user-friendly dashboard" that shows important supply chain details for AtliQ Mart. 
 - This dashboard helps in making smart decisions to improve the FMCG supply chain efficiently.
-
+<br>
 
  <h1 align="center" >🔶Snapshots of Dashboard🔶</h1> 
 
